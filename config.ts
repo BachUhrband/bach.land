@@ -23,7 +23,7 @@ const config: Config = {
    * Room name used by the server upon startup. The room name can later be
    * changed through the console while the server is running.
    */
-  roomNameOnStartup: 'Manifold Server',
+  roomNameOnStartup: 'Bach land',
 
   /**
    * Password used by the server upon startup. Leave as `null` to make
@@ -51,7 +51,7 @@ const config: Config = {
    * Maximum amount of players that can be in the room at the same time.
    * The max amount of players cannot be changed while the server is running.
    */
-  maxPlayers: 12,
+  maxPlayers: 20,
 
   /**
    * Controls whether the server automatically assigns a host when there
